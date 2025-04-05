@@ -1,10 +1,10 @@
 /*
-    name - median-out-of-three
-	url - https://coderun.yandex.ru/problem/median-out-of-three
-	difficulty - Easy
+    Имя - median-out-of-three
+	URL       - https://coderun.yandex.ru/problem/median-out-of-three
+	Сложность - Easy
 
-	Time complexity  - O(1)
-	Space complexity - O(1)
+	Сложность (время)  - O(1)
+	Сложность (память) - O(1)
 
 	made by vertoker
 */

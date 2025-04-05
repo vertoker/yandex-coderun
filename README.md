@@ -4,7 +4,13 @@
 
 ## Оглавление
 
+- [Решённые задачи (`/catalog`)](#tasks_catalog)
 
 
+## Другие репозитории решений
+- [Gusunov/coderun](https://github.com/Gosunov/coderun)
+
+
+<a name="tasks_catalog"></a>
 ## Решённые задачи (`/catalog`)
 
