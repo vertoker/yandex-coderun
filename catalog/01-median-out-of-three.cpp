@@ -1,10 +1,13 @@
 /*
     Имя - median-out-of-three
-	URL       - https://coderun.yandex.ru/problem/median-out-of-three
-	Сложность - Easy
+	URL - https://coderun.yandex.ru/problem/median-out-of-three
+	Сложность - Лёгкая
 
 	Сложность (время)  - O(1)
 	Сложность (память) - O(1)
+
+	Самая первая задача, у которой решение буквально написано в описании
+	То решение полностью объясняет принцип, ну а я предложу самое эффективное
 
 	made by vertoker
 */
@@ -18,14 +21,26 @@ int main()
 	
 	if (a < b)
 		if (a < c)
-			std::cout << std::min(b, c) << std::endl;
+			if (b < c)
+				std::cout << b;
+			else // c < b
+				std::cout << c;
 		else // c < a
-			std::cout << std::min(a, b) << std::endl;
+			if (a < b)
+				std::cout << a;
+			else // b < a
+				std::cout << b;
 	else // b < a
 		if (b < c)
-			std::cout << std::min(a, c) << std::endl;
+			if (a < c)
+				std::cout << a;
+			else // c < a
+				std::cout << c;
 		else // c < b
-			std::cout << std::min(a, b) << std::endl;
+			if (a < b)
+				std::cout << a;
+			else // b < a
+				std::cout << b;
 
     return 0;
 }

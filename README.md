@@ -8,9 +8,11 @@
 
 
 ## Другие репозитории решений
+
 - [Gusunov/coderun](https://github.com/Gosunov/coderun)
 
 
 <a name="tasks_catalog"></a>
 ## Решённые задачи (`/catalog`)
 
+- [1. Средний элемент](catalog/01-median-out-of-three.cpp)
