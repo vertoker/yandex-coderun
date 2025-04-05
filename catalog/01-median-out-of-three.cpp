@@ -1,5 +1,5 @@
 /*
-    Имя - median-out-of-three
+	Имя - median-out-of-three
 	URL - https://coderun.yandex.ru/problem/median-out-of-three
 	Сложность - Лёгкая
 
@@ -16,9 +16,9 @@
 
 int main()
 {
-	int a, b, c; 
-    std::cin >> a >> b >> c;
-	
+	int a, b, c;
+	std::cin >> a >> b >> c;
+ 
 	if (a < b)
 		if (a < c)
 			if (b < c)
@@ -42,5 +42,5 @@ int main()
 			else // b < a
 				std::cout << b;
 
-    return 0;
+	return 0;
 }
