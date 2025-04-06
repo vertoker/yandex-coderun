@@ -82,3 +82,4 @@
 
 - [1. Средний элемент](catalog/01-median-out-of-three.cpp)
 - [2. Самый дешевый путь](catalog/02-cheapest-way.cpp)
+- [3. Вывести маршрут максимальной стоимости](catalog/03-print-the-route-of-the-maximum-cost.cpp)
