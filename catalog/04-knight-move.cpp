@@ -1,5 +1,5 @@
 /*
-	Имя - knight-move
+	Имя - Ход конём
 	URL - https://coderun.yandex.ru/problem/knight-move
 	Сложность - Средняя
 	Тэги - dynamic_programming_2D

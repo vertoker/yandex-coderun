@@ -1,5 +1,5 @@
 /*
-	Имя - cheapest-way
+	Имя - Самый дешевый путь
 	URL - https://coderun.yandex.ru/problem/cheapest-way
 	Сложность - Средняя
 	Тэги - dynamic_programming_2D

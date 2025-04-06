@@ -1,5 +1,5 @@
 /*
-	Имя - print-the-route-of-the-maximum-cost
+	Имя - Вывести маршрут максимальной стоимости
 	URL - https://coderun.yandex.ru/problem/print-the-route-of-the-maximum-cost
 	Сложность - Средняя
 	Тэги - dynamic_programming_2D

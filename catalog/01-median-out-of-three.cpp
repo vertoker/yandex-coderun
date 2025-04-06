@@ -1,5 +1,5 @@
 /*
-	Имя - median-out-of-three
+	Имя - Средний элемент
 	URL - https://coderun.yandex.ru/problem/median-out-of-three
 	Сложность - Лёгкая
 	Тэги - sort
