@@ -2,6 +2,7 @@
 	Имя - median-out-of-three
 	URL - https://coderun.yandex.ru/problem/median-out-of-three
 	Сложность - Лёгкая
+	Тэги - sort
 
 	Сложность (время)  - O(1)
 	Сложность (память) - O(1)
