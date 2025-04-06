@@ -23,7 +23,7 @@ int main()
 	uint16_t N, M;
 	std::cin >> N >> M;
 
-	// max = 20 * 20 * 100 = 40000
+	// max = (20 + 20) * 100 = 4000
 	uint16_t weights[N][M];
 
 	for (size_t i = 0; i < N; ++i)
@@ -34,7 +34,6 @@ int main()
 			std::cin >> weights[i][j];
 
 			// Расчёт текущей клетки на основе предыдущей
-			uint16_t buffer = 65535;
 			if (i != 0 && j != 0)
 				weights[i][j] += std::min( weights[i-1][j], weights[i][j-1] );
 			else if (i != 0)
