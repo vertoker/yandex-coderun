@@ -81,3 +81,4 @@
 ## Решённые задачи (`/catalog`)
 
 - [1. Средний элемент](catalog/01-median-out-of-three.cpp)
+- [2. Самый дешевый путь](catalog/02-cheapest-way.cpp)
