@@ -26,9 +26,9 @@ int main()
 	// max = 20 * 20 * 100 = 40000
 	uint16_t weights[N][M];
 
-	for	(size_t i = 0; i < N; ++i)
+	for (size_t i = 0; i < N; ++i)
 	{
-		for	(size_t j = 0; j < M; ++j)
+		for (size_t j = 0; j < M; ++j)
 		{
 			// Ввод
 			std::cin >> weights[i][j];
