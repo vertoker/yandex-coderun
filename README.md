@@ -84,7 +84,7 @@
 - [2. Самый дешевый путь](catalog/02-cheapest-way.cpp)
 - [3. Вывести маршрут максимальной стоимости](catalog/03-print-the-route-of-the-maximum-cost.cpp)
 - [4. Ход конём](catalog/04-knight-move.cpp)
-- [6. НОП с восстановлением ответа](catalog/06-nop-with-response-recovery.cpp)
 
 ## Не решённые задачи (`/catalog`)
 - [5. Кафе](catalog/05-cafe.cpp)
+- [6. НОП с восстановлением ответа](catalog/06-nop-with-response-recovery.cpp)
