@@ -88,3 +88,6 @@
 ## Не решённые задачи (`/catalog`)
 - [5. Кафе](catalog/05-cafe.cpp)
 - [6. НОП с восстановлением ответа](catalog/06-nop-with-response-recovery.cpp)
+
+---
+- [7. Поиск в глубину](catalog/07-search-in-depth.cpp)
